@@ -1,10 +1,10 @@
- Curso de VSCode
+VSCode
 
-Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
+A small repository where we'll learn a couple of tricks to work quickly with visual studio code
 
-También hay un par de extensiones bastante útiles que les pueden servir.
+there are also a couple of quite useful extensions that can serve you.
 
-## Extensiones
+## Extensions
 
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
@@ -26,16 +26,16 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 
 * [Angular Snippets (Version 8)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
-*[Bootstrap 4](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+* [Bootstrap 4](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
-*[Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense)
+* [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense)
 
-*[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 
-*[GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)
+* [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)
 
-*[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
-*[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+* [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
-*[HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+* [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
